@@ -18,7 +18,7 @@ I lecture in the field of Design Thinking, Internet of Things, and Artificial In
 
 I hold a PhD Degree in Computer Science from [NTNU][ntnu], and an MSc Degree in Computer Engineering from the [University of Bergamo][unibg].
 
-In Boston, I run with [Midnight Runners][mr].
+In Boston, I run with [MR][mr].
 
 Links: [Google Scholar][scholar], [LinkedIn][linkedin]
 
